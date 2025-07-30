@@ -1,4 +1,4 @@
 # amazon-clone-css
 My First CSS Project 
 <br>
-Author-Yuvraj Sharma
+Author-Yuvraj D Sharma
